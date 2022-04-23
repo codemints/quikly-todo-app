@@ -1,0 +1,12 @@
+@use '@scss/abstracts/variables' as *;
+
+button {
+  font-family: $fontHeader;
+  font-size: 1.8rem;
+  text-transform: uppercase;
+
+  border-radius: 0.7rem;
+  padding-inline: 2.4rem;
+  padding-block: 1.2rem;
+  transition: all 0.3s ease-in-out;
+}

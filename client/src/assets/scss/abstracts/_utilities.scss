@@ -1,0 +1,11 @@
+@use '@scss/abstracts/variables' as *;
+
+.blue-hover:hover {
+  background-color: $blue-alt;
+}
+.red-hover:hover {
+  background-color: $red-alt;
+}
+.text-white {
+  color: white;
+}

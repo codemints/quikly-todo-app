@@ -1,0 +1,10 @@
+@use '@scss/abstracts' as *;
+html {
+  font-size: 10px;
+}
+
+body {
+  background-color: $gray-100;
+  min-width: 100vw;
+  min-height: 100vh;
+}
